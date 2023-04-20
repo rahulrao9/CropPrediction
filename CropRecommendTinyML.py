@@ -1,3 +1,4 @@
+# Code to train the tinyML model
 import numpy as np
 import pandas as pd
 from everywhereml.sklearn.ensemble import RandomForestClassifier
